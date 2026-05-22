@@ -29,10 +29,10 @@
 
 | 프로젝트 | 설명 | 기술 |
 |---|---|---|
-| **Microlens** | Kubernetes 기반 멀티모델 AI 비전 추론 플랫폼 | K8s · YOLOv12 · Python · AWS |
-| **MYCE** | 박람회 생애주기 통합 관리 플랫폼 | Spring Boot · React · Redis · Ansible |
-| **Stainless** | 시각장애인용 YOLOv5 기반 의류 얼룩 탐지 앱 | YOLOv5 · Spring Boot · TTS |
-| **Mechuragi** | 생성형 AI 기반 음식 추천 및 커뮤니티 플랫폼 | Claude API · Sentence-BERT · AWS |
+| **Microlens** | Kubernetes 기반 멀티모델 AI 비전 추론 플랫폼 | K8s · YOLOv12 · Python · AWS · Terraform · Ansible |
+| **MYCE** | 박람회 생애주기 통합 관리 플랫폼 | Spring Boot · React · Redis · Terraform · Ansible |
+| **Stainless** | 시각장애인용 YOLOv5 기반 의류 얼룩 탐지 앱 | YOLOv5 · Kotlin · TensorFlow |
+| **Mechuragi** | 생성형 AI 기반 음식 추천 및 커뮤니티 플랫폼 | AWS · SpringBoot · Terraform · Ansible |
 
 <br>
 
