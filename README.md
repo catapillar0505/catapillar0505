@@ -2,8 +2,8 @@
 
 <p>Backend & Cloud Infrastructure Engineer | Java · Python · Kubernetes · AWS</p>
 
-## 학력
-서울여자대학교 소프트웨어융합학과
+## ✏️ 학력
+서울여자대학교 소프트웨어융합학과 (20.03 ~ 26.02)
 
 
 ## 🛠 기술 스택
@@ -47,6 +47,8 @@
 - 🏆 **배리어프리 공모전 우수상 수상**
 [![GitHub](https://img.shields.io/badge/GitHub-Stainless-181717?style=flat-square&logo=github)](https://github.com/catapillar0505)
 
+### 🐦 메추라기
+
 
 ## 🏆 수상 이력
 
@@ -65,5 +67,5 @@
 정보처리기사
 
 ## 🏫 교육
-멋쟁이 사자처럼 JAVA 백엔드 15기 (2025.02 ~ 2025.08)
-새싹 청
+멋쟁이 사자처럼 JAVA 백엔드 15기 (2025.02 ~ 08)
+새싹 청년취업사관학교 (2026.05 ~ 11)
