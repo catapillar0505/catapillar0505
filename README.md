@@ -69,3 +69,6 @@
 ## 🏫 교육
 멋쟁이 사자처럼 - JAVA 백엔드 15기 (2025.02 ~ 08) <br>
 새싹 청년취업사관학교 - AWS와 AI를 활용한 MSA 웹서비스 개발 (2026.05 ~ 11)
+
+## 🗒️ 노션 포트폴리오
+[![Notion Portfolio](https://img.shields.io/badge/Portfolio-Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/jina8/329ec63d769480eb942fdec9ed6c399e)
