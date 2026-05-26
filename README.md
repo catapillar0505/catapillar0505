@@ -48,4 +48,4 @@
 
 
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=catapillar0505&show_icons=true&theme=default&hide_border=true&hide_title=true)](https://github.com/catapillar0505)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=catapillar0505)](https://github.com/catapillar0505)
