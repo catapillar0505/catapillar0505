@@ -48,4 +48,4 @@
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=catapillar0505)](https://github.com/catapillar0505)
+![Jina's GitHub Contribution Chart](https://ghchart.rshah.org/catapillar0505)
