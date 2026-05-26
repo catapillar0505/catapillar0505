@@ -34,7 +34,7 @@
 - **kubeadm** 기반 온프레미스 Kubernetes 클러스터 직접 구성
 - **Ansible** 자동화 및 **AWS EC2** 인프라 운영
 - CPU 최적화를 통한 비용 효율적 AI 추론 환경 구축
-[![GitHub](https://img.shields.io/badge/GitHub-Microlens-181717?style=flat-square&logo=github)](https://github.com/catapillar0505)
+[![GitHub](https://img.shields.io/badge/GitHub-Microlens-181717?style=flat-square&logo=github)](https://github.com/orgs/MICRO-LENS/repositories)
  
 ---
  
@@ -45,10 +45,10 @@
 - 시각장애인 접근성을 고려한 음성 피드백 UX 설계
 - 🏆 **2023 현대오토에버 공모전 수상**
 - 🏆 **배리어프리 공모전 우수상 수상**
-[![GitHub](https://img.shields.io/badge/GitHub-Stainless-181717?style=flat-square&logo=github)](https://github.com/catapillar0505)
+[![GitHub](https://img.shields.io/badge/GitHub-Stainless-181717?style=flat-square&logo=github)](https://github.com/catapillar0505/Stainless)
 
 ### 🐦 메추라기
-
+[![GitHub](https://img.shields.io/badge/GitHub-Stainless-181717?style=flat-square&logo=github)](https://github.com/orgs/teamMechuragi/repositories)
 
 ## 🏆 수상 이력
 
