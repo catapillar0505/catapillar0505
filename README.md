@@ -1,7 +1,9 @@
 # 안녕하세요, 김진아입니다 👋
 
-백엔드 및 클라우드 인프라 엔지니어링에 관심 있는 개발자입니다.  
-**서울여자대학교** 소프트웨어융합학과 졸업
+<p>Backend & Cloud Infrastructure Engineer | Java · Python · Kubernetes · AWS</p>
+
+## 학력
+서울여자대학교 소프트웨어융합학과
 
 
 ## 🛠 기술 스택
@@ -23,14 +25,27 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 
-## 📌 주요 프로젝트
-
-| 프로젝트 | 설명 | 기술 |
-|---|---|---|
-| **Microlens** | Kubernetes 기반 멀티모델 AI 비전 추론 플랫폼 | K8s · YOLOv12 · Python · AWS · Terraform · Ansible |
-| **MYCE** | 박람회 생애주기 통합 관리 플랫폼 | Spring Boot · React · Redis · Terraform · Ansible |
-| **Stainless** | 시각장애인용 YOLOv5 기반 의류 얼룩 탐지 앱 | YOLOv5 · Kotlin · TensorFlow |
-| **Mechuragi** | 생성형 AI 기반 음식 추천 및 커뮤니티 플랫폼 | AWS · SpringBoot · Terraform · Ansible |
+## 🚀 주요 프로젝트
+ 
+### 🔭 Microlens
+> Kubernetes 기반 멀티모델 AI 비전 추론 플랫폼
+ 
+- **YOLOv12** 등 다양한 비전 모델을 단일 플랫폼에서 통합 서빙
+- **kubeadm** 기반 온프레미스 Kubernetes 클러스터 직접 구성
+- **Ansible** 자동화 및 **AWS EC2** 인프라 운영
+- CPU 최적화를 통한 비용 효율적 AI 추론 환경 구축
+[![GitHub](https://img.shields.io/badge/GitHub-Microlens-181717?style=flat-square&logo=github)](https://github.com/catapillar0505)
+ 
+---
+ 
+### 👁 Stainless
+> 시각장애인을 위한 YOLOv5 기반 의류 오염 감지 앱
+ 
+- **YOLOv5** 모델 학습 및 의류 오염 부위 실시간 감지
+- 시각장애인 접근성을 고려한 음성 피드백 UX 설계
+- 🏆 **2023 현대오토에버 공모전 수상**
+- 🏆 **배리어프리 공모전 우수상 수상**
+[![GitHub](https://img.shields.io/badge/GitHub-Stainless-181717?style=flat-square&logo=github)](https://github.com/catapillar0505)
 
 
 ## 🏆 수상 이력
@@ -46,6 +61,9 @@
 | Programming GURU 해커톤 Android 부문 **대상** | 서울여자대학교 | Mechuragi | 2024.02 |
 | 멋쟁이사자처럼 백엔드 15기 파이널 **최우수 (1위)** | 멋쟁이사자처럼 | MYCE | 2025.08 |
 
+## 🎖️ 자격증
+정보처리기사
 
-
-![Jina's GitHub Contribution Chart](https://ghchart.rshah.org/catapillar0505)
+## 🏫 교육
+멋쟁이 사자처럼 JAVA 백엔드 15기 (2025.02 ~ 2025.08)
+새싹 청
