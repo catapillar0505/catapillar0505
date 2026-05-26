@@ -48,7 +48,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Stainless-181717?style=flat-square&logo=github)](https://github.com/catapillar0505/Stainless)
 
 ### 🐦 메추라기
-[![GitHub](https://img.shields.io/badge/GitHub-Stainless-181717?style=flat-square&logo=github)](https://github.com/orgs/teamMechuragi/repositories)
+[![GitHub](https://img.shields.io/badge/GitHub-Mechuragi-181717?style=flat-square&logo=github)](https://github.com/orgs/teamMechuragi/repositories)
 
 ## 🏆 수상 이력
 
