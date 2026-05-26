@@ -1,6 +1,6 @@
 # 안녕하세요, 김진아입니다 👋
 
-<p>Backend & Cloud Infrastructure Engineer | Java · Python · Kubernetes · AWS</p>
+<p>Backend & Cloud Infrastructure Engineer</p>
 
 ## ✏️ 학력
 서울여자대학교 소프트웨어융합학과 (20.03 ~ 26.02)
