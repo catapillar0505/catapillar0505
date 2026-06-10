@@ -43,8 +43,7 @@
  
 - **YOLOv5** 모델 학습 및 의류 오염 부위 실시간 감지
 - 시각장애인 접근성을 고려한 음성 피드백 UX 설계
-- 🏆 **2023 현대오토에버 공모전 수상**
-- 🏆 **배리어프리 공모전 우수상 수상**
+- 🏆 **2023 현대오토에버 배리어프리 공모전 우수상 수상**
 [![GitHub](https://img.shields.io/badge/GitHub-Stainless-181717?style=flat-square&logo=github)](https://github.com/catapillar0505/Stainless)
 
 ### 🐦 메추라기
