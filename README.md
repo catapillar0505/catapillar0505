@@ -12,8 +12,6 @@
 - **멋쟁이사자처럼** — JAVA 백엔드 15기 (2025.02 ~ 2025.08)
 - **새싹 청년취업사관학교** — AWS와 AI를 활용한 MSA 웹서비스 개발 (2026.05 ~ 2026.11) [![GitHub](https://img.shields.io/badge/GitHub-SeSAC--bootcamp-181717?style=flat-square&logo=github)](https://github.com/catapillar0505/SeSAC-bootcamp)
 
----
-
 ## 🚀 Projects
 
 ### 🔭 Micro-Lens — 시력보조 AI 비전 플랫폼 (1인 프로젝트)
@@ -40,8 +38,6 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Stainless-181717?style=flat-square&logo=github)](https://github.com/catapillar0505/Stainless)
 [![Demo](https://img.shields.io/badge/YouTube-시연_영상-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/shorts/isyrkpcRVUI?feature=share)
-
----
 
 ## 🛠 Tech Stack
 
@@ -77,13 +73,9 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
 
----
-
 ## 📜 Certificate
 
 - **정보처리기사** (2025.08.13)
-
----
 
 ## 🏆 Awards
 
@@ -97,8 +89,6 @@
 | 소프트웨어융합학과 졸업 프로젝트 **은상** | 서울여자대학교 | Stainless | 2023.02 |
 | Programming GURU 해커톤 Python 부문 **장려상** | 서울여자대학교 | — | 2023.02 |
 | 창업 아이디어 경진대회 **대상** | 서울여자대학교 산학협력단 | Recordy | 2022.10 |
-
----
 
 ## 📫 Contact
 
