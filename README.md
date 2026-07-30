@@ -30,7 +30,7 @@
 
 ### 🔭 Micro-Lens — 시력보조 AI 비전 플랫폼 (1인 프로젝트)
 
-> 일상 속 미세한 부분까지, 대신 확인해주는 시력보조 파트너 · 🌐 [microlens.cloud](https://microlens.cloud/) · 📹 [시연 영상](https://youtu.be/7jnekg9lZeo)
+> 일상 속 미세한 부분까지, 대신 확인해주는 시력보조 파트너 · 📹 [시연 영상](https://youtu.be/7jnekg9lZeo)
 
 - **kubeadm으로 Kubernetes 클러스터 직접 구축** — Terraform·Ansible·Kustomize·ArgoCD로 GitOps 파이프라인까지 전 구간 IaC
 - YOLOv5 → YOLOv12 전환 + 데이터셋 개선(배경 이미지 10% 추가 등)으로 **mAP50 0.55 → 0.8**
@@ -42,7 +42,7 @@
 
 ### 🎟️ MYCE — 박람회 생애주기 관리 플랫폼 <sub>🏆 멋사 백엔드 15기 파이널 최우수 (1위)</sub>
 
-> 박람회 개최부터 예약·결제·정산까지 원스톱 · 🌐 [myce.live](https://www.myce.live)
+> 박람회 개최부터 예약·결제·정산까지 원스톱 박람회 생애주기 관리 플랫폼
 
 - **박람회 관리자 도메인을 백엔드부터 프론트까지 엔드투엔드 전담** (머지 PR 55개 — server 20 + client 35)
 - 대시보드 통계의 데이터 정합성 문제 해결 — 기준 테이블 통일 + **Redis 캐시 키 버전 관리** 체계 도입
@@ -53,7 +53,7 @@
 
 ### 🐦 메추라기 — Claude AI 메뉴 추천 커뮤니티 <sub>🏆 Programming GURU 해커톤 대상</sub>
 
-> "오늘 뭐먹지?" 고민을 줄여주는 AI 추천 + 투표 커뮤니티 · 🌐 [mechuragi.site](https://mechuragi.site) · 📹 [시연 영상](https://youtube.com/shorts/QZbuvk-MRn8?feature=share)
+> "오늘 뭐먹지?" 고민을 줄여주는 AI 추천 + 투표 커뮤니티 · 📹 [시연 영상](https://youtube.com/shorts/QZbuvk-MRn8?feature=share)
 
 - 팀 전체 머지 PR 177개 중 **125개(71%) 작성** — 백엔드·프론트·AI·인프라 전 저장소 기여, **인프라는 단독 설계·구축(기여 100%)**
 - **k6 부하 테스트로 게이트웨이 구조 검증** — OpenResty + Lua JWT 직행 경로 채택으로 처리량 **+32%**, p95 **-45%**
@@ -78,47 +78,27 @@
 
 ## 🛠 기술 스택
 
-**Languages**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
-
 **Backend**
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
 ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=flat-square&logo=auth0&logoColor=white)
 ![SSE](https://img.shields.io/badge/SSE-E34F26?style=flat-square&logo=html5&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white)
-
-**AI / ML**
-
-![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logoColor=black)
-![ONNX Runtime](https://img.shields.io/badge/ONNX_Runtime-005CED?style=flat-square&logo=onnx&logoColor=white)
-![TensorFlow Lite](https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Ultralytics](https://img.shields.io/badge/Ultralytics-042AFF?style=flat-square&logoColor=white)
-
-**Frontend / Mobile**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
-![i18next](https://img.shields.io/badge/i18next-26A69A?style=flat-square&logo=i18next&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
 **Database / Cache**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**AI Serving**
+
+![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logoColor=black)
+![ONNX Runtime](https://img.shields.io/badge/ONNX_Runtime-005CED?style=flat-square&logo=onnx&logoColor=white)
 
 **Cloud / Infra**
 
@@ -126,19 +106,15 @@
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Kustomize](https://img.shields.io/badge/Kustomize-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![OpenResty](https://img.shields.io/badge/OpenResty-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
-**CI/CD · Testing**
+**CI/CD**
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![k6](https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
 
 ---
 
