@@ -14,30 +14,12 @@
 
 ## 🚀 Projects
 
-### 🔭 Micro-Lens — 시력보조 AI 비전 플랫폼 (1인 프로젝트)
-
-[![infra](https://img.shields.io/badge/GitHub-microlens--infra-181717?style=flat-square&logo=github)](https://github.com/MICRO-LENS/microlens-infra)
-[![ai-api](https://img.shields.io/badge/GitHub-microlens--ai--api-181717?style=flat-square&logo=github)](https://github.com/MICRO-LENS/microlens-ai-api)
-[![client](https://img.shields.io/badge/GitHub-microlens--client-181717?style=flat-square&logo=github)](https://github.com/MICRO-LENS/microlens-client)
-[![Demo](https://img.shields.io/badge/YouTube-시연_영상-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/7jnekg9lZeo)
-
-### 🎟️ MYCE — 박람회 생애주기 관리 플랫폼 <sub>🏆 멋사 백엔드 15기 파이널 최우수 (1위)</sub>
-
-[![server](https://img.shields.io/badge/GitHub-myce--server-181717?style=flat-square&logo=github)](https://github.com/catapillar0505/myce-server)
-[![client](https://img.shields.io/badge/GitHub-myce--client-181717?style=flat-square&logo=github)](https://github.com/catapillar0505/myce-client)
-
-### 🐦 메추라기 — Claude AI 메뉴 추천 커뮤니티 <sub>🏆 Programming GURU 해커톤 대상</sub>
-
-[![main](https://img.shields.io/badge/GitHub-mechuragi__main__server-181717?style=flat-square&logo=github)](https://github.com/catapillar0505/mechuragi_main_server)
-[![ai](https://img.shields.io/badge/GitHub-mechuragi__ai__server-181717?style=flat-square&logo=github)](https://github.com/catapillar0505/mechuragi_ai_server)
-[![client](https://img.shields.io/badge/GitHub-mechuragi__client-181717?style=flat-square&logo=github)](https://github.com/catapillar0505/mechuragi_client)
-[![infra](https://img.shields.io/badge/GitHub-mechuragi__infra-181717?style=flat-square&logo=github)](https://github.com/catapillar0505/mechuragi_infra)
-[![Demo](https://img.shields.io/badge/YouTube-시연_영상-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/shorts/QZbuvk-MRn8?feature=share)
-
-### 👕 Stainless — 시각장애인용 옷 얼룩 탐지 앱 <sub>🏆 배리어프리 앱 개발 컨테스트 우수상</sub>
-
-[![GitHub](https://img.shields.io/badge/GitHub-Stainless-181717?style=flat-square&logo=github)](https://github.com/catapillar0505/Stainless)
-[![Demo](https://img.shields.io/badge/YouTube-시연_영상-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/shorts/isyrkpcRVUI?feature=share)
+| 프로젝트 | 서비스 소개 | 핵심 성과 | 링크 |
+|---|---|---|---|
+| 🔭 **Micro-Lens**<br/><sub>1인 프로젝트</sub> | 시각장애인용 얼룩·이물질 AI 탐지 웹 서비스 | kubeadm으로 K8s 직접 구축, YOLOv12 전환으로 **mAP50 0.55 → 0.8** | [infra](https://github.com/MICRO-LENS/microlens-infra) · [ai-api](https://github.com/MICRO-LENS/microlens-ai-api) · [client](https://github.com/MICRO-LENS/microlens-client) · [📹](https://youtu.be/7jnekg9lZeo) |
+| 🎟️ **MYCE**<br/><sub>🏆 멋사 파이널 최우수 (1위)</sub> | 박람회 개최부터 예약·결제·정산까지 원스톱 관리 플랫폼 | 박람회 관리자 도메인을 백엔드~프론트 **E2E 전담** (머지 PR 55개) | [server](https://github.com/catapillar0505/myce-server) · [client](https://github.com/catapillar0505/myce-client) |
+| 🐦 **메추라기**<br/><sub>🏆 GURU 해커톤 대상</sub> | Claude AI 메뉴 추천 + 투표 커뮤니티 | 팀 머지 PR의 **71%(125개)** 작성, 인프라 단독 구축 + k6 검증으로 처리량 **+32%** | [main](https://github.com/catapillar0505/mechuragi_main_server) · [ai](https://github.com/catapillar0505/mechuragi_ai_server) · [client](https://github.com/catapillar0505/mechuragi_client) · [infra](https://github.com/catapillar0505/mechuragi_infra) · [📹](https://youtube.com/shorts/QZbuvk-MRn8?feature=share) |
+| 👕 **Stainless**<br/><sub>🏆 배리어프리 컨테스트 우수상</sub> | 시각장애인용 옷 얼룩 탐지 Android 앱 | 데이터 제작→학습→TFLite 변환→앱 연동까지 **온디바이스 실시간 탐지** 전 과정 수행 | [repo](https://github.com/catapillar0505/Stainless) · [📹](https://youtube.com/shorts/isyrkpcRVUI?feature=share) |
 
 ## 🛠 Tech Stack
 
