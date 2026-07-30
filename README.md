@@ -10,22 +10,7 @@
 
 - **서울여자대학교** 소프트웨어융합학과 (2020.03 ~ 2026.02)
 - **멋쟁이사자처럼** — JAVA 백엔드 15기 (2025.02 ~ 2025.08)
-- **새싹 청년취업사관학교** — AWS와 AI를 활용한 MSA 웹서비스 개발 (2026.05 ~ 2026.11)
-
----
-
-## 🏆 Awards
-
-| 수상 | 주최 | 프로젝트 | 날짜 |
-|---|---|---|---|
-| 멋쟁이사자처럼 백엔드 15기 파이널 **🥇 최우수 (1위)** | 멋쟁이사자처럼 | [MYCE](https://github.com/catapillar0505/myce-server) | 2025.08 |
-| Programming GURU 해커톤 Android 부문 **🥇 대상** | 서울여자대학교 | [Mechuragi](https://github.com/catapillar0505/mechuragi_main_server) | 2024.02 |
-| 배리어프리 앱 개발 컨테스트 **우수상** | 현대오토에버 · (사)그린라이트 | [Stainless](https://github.com/catapillar0505/Stainless) | 2024.02 |
-| 학생창업 아이디어경진대회 **우수상** | 한국창업협회 · 요즈마그룹코리아 | Recordy | 2023.11 |
-| 한이음 ICT멘토링 공모전 **입선** | 한국정보산업연합회 | Keep Work | 2023.12 |
-| 소프트웨어융합학과 졸업 프로젝트 **은상** | 서울여자대학교 | Stainless | 2023.02 |
-| Programming GURU 해커톤 Python 부문 **장려상** | 서울여자대학교 | — | 2023.02 |
-| 창업 아이디어 경진대회 **대상** | 서울여자대학교 산학협력단 | Recordy | 2022.10 |
+- **새싹 청년취업사관학교** — AWS와 AI를 활용한 MSA 웹서비스 개발 (2026.05 ~ 2026.11) [![GitHub](https://img.shields.io/badge/GitHub-SeSAC--bootcamp-181717?style=flat-square&logo=github)](https://github.com/catapillar0505/SeSAC-bootcamp)
 
 ---
 
@@ -97,6 +82,21 @@
 ## 📜 Certificate
 
 - **정보처리기사** (2025.08.13)
+
+---
+
+## 🏆 Awards
+
+| 수상 | 주최 | 프로젝트 | 날짜 |
+|---|---|---|---|
+| 멋쟁이사자처럼 백엔드 15기 파이널 **🥇 최우수 (1위)** | 멋쟁이사자처럼 | [MYCE](https://github.com/catapillar0505/myce-server) | 2025.08 |
+| Programming GURU 해커톤 Android 부문 **🥇 대상** | 서울여자대학교 | [Mechuragi](https://github.com/catapillar0505/mechuragi_main_server) | 2024.02 |
+| 배리어프리 앱 개발 컨테스트 **우수상** | 현대오토에버 · (사)그린라이트 | [Stainless](https://github.com/catapillar0505/Stainless) | 2024.02 |
+| 학생창업 아이디어경진대회 **우수상** | 한국창업협회 · 요즈마그룹코리아 | Recordy | 2023.11 |
+| 한이음 ICT멘토링 공모전 **입선** | 한국정보산업연합회 | Keep Work | 2023.12 |
+| 소프트웨어융합학과 졸업 프로젝트 **은상** | 서울여자대학교 | Stainless | 2023.02 |
+| Programming GURU 해커톤 Python 부문 **장려상** | 서울여자대학교 | — | 2023.02 |
+| 창업 아이디어 경진대회 **대상** | 서울여자대학교 산학협력단 | Recordy | 2022.10 |
 
 ---
 
