@@ -4,11 +4,6 @@
 
 ### Backend & Cloud Infrastructure Engineer
 
-**관측하고, 측정하고, 숫자로 증명하는 엔지니어입니다.**
-
-k6로 게이트웨이 구조를 검증해 p95를 45% 줄이고, `nvidia-smi`로 GPU 사용률 2.5%를 발견해 아키텍처를 뒤집고,<br/>
-데이터셋을 개선해 mAP50을 0.55에서 0.8로 끌어올렸습니다. 감이 아니라 **측정이 의사결정의 근거**라고 믿습니다.
-
 [![Email](https://img.shields.io/badge/Email-twrp3301@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:twrp3301@gmail.com)
 [![Notion Portfolio](https://img.shields.io/badge/Portfolio-Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/jina8/329ec63d769480eb942fdec9ed6c399e)
 
@@ -85,76 +80,65 @@ k6로 게이트웨이 구조를 검증해 p95를 45% 줄이고, `nvidia-smi`로 
 
 **Languages**
 
-![Java](https://img.shields.io/badge/Java%2017%2F21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python%203.10-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
-![HCL](https://img.shields.io/badge/HCL-844FBA?style=flat-square&logo=terraform&logoColor=white)
 
 **Backend**
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
 ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![WebFlux](https://img.shields.io/badge/WebFlux_WebClient-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![OAuth2](https://img.shields.io/badge/OAuth2_(Kakao)-EB5424?style=flat-square&logo=auth0&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=flat-square&logo=auth0&logoColor=white)
 ![SSE](https://img.shields.io/badge/SSE-E34F26?style=flat-square&logo=html5&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket_(STOMP)-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![TossPayments](https://img.shields.io/badge/토스페이먼츠_OpenAPI-0064FF?style=flat-square&logo=toss&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white)
 
 **AI / ML**
 
-![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock_(Claude)-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLOv5%2Fv8%2Fv12-00FFFF?style=flat-square&logoColor=black)
+![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logoColor=black)
 ![ONNX Runtime](https://img.shields.io/badge/ONNX_Runtime-005CED?style=flat-square&logo=onnx&logoColor=white)
 ![TensorFlow Lite](https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Ultralytics](https://img.shields.io/badge/Ultralytics_(모델_학습%2F증강)-042AFF?style=flat-square&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-8A2BE2?style=flat-square&logoColor=white)
+![Ultralytics](https://img.shields.io/badge/Ultralytics-042AFF?style=flat-square&logoColor=white)
 
 **Frontend / Mobile**
 
-![React](https://img.shields.io/badge/React_18%2F19-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
 ![i18next](https://img.shields.io/badge/i18next-26A69A?style=flat-square&logo=i18next&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo_(React_Native)-000020?style=flat-square&logo=expo&logoColor=white)
-![Android](https://img.shields.io/badge/Android_(Camera2_API)-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
 **Database / Cache**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis_(Pub%2FSub·Keyspace_Notifications)-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 **Cloud / Infra**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes_(kubeadm)-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Calico](https://img.shields.io/badge/Calico_CNI-FF6D00?style=flat-square&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Kustomize](https://img.shields.io/badge/Kustomize-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx%2FOpenResty_(Lua_JWT_Gateway)-009639?style=flat-square&logo=nginx&logoColor=white)
+![OpenResty](https://img.shields.io/badge/OpenResty-009639?style=flat-square&logo=nginx&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
-> AWS 상세: EC2 · S3 · CloudFront · VPC · ALB · Auto Scaling · ACM · Route 53 · ECR · SES · IAM · CloudWatch · SSM · Bedrock · NAT 인스턴스 직접 구축
-
-**CI/CD · Monitoring · Testing**
+**CI/CD · Testing**
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![k6](https://img.shields.io/badge/k6_부하_테스트-7D64FF?style=flat-square&logo=k6&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger_(SpringDoc)-85EA2D?style=flat-square&logo=swagger&logoColor=black)
-![JUnit](https://img.shields.io/badge/JUnit_(단위·통합_테스트)-25A162?style=flat-square&logo=junit5&logoColor=white)
+![k6](https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
 
 ---
 
