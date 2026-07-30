@@ -1,8 +1,8 @@
 <div align="center">
 
-# 안녕하세요, 김진아입니다 👋
+# 김진아🐰
 
-### Backend & Cloud Infrastructure Engineer
+소개글
 
 </div>
 
