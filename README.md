@@ -15,6 +15,7 @@
 | JAVA 백엔드 15기 | 멋쟁이사자처럼 | 2025.02 ~ 2025.08 |
 | AWS와 AI를 활용한 MSA 웹서비스 개발 [![GitHub](https://img.shields.io/badge/GitHub-SeSAC--bootcamp-181717?style=flat-square&logo=github)](https://github.com/catapillar0505/SeSAC-bootcamp) | 새싹 청년취업사관학교 | 2026.05 ~ 2026.11 |
 
+
 ## 🚀 Projects
 
 | 프로젝트 | 서비스 소개 | 담당 및 핵심 성과 | 링크 |
@@ -23,6 +24,7 @@
 | 🎟️ **MYCE**<br/><sub>🏆 멋사 파이널 최우수 (1위)</sub> | 박람회 개최부터 예약·결제·정산까지 원스톱 관리 플랫폼 | 박람회 관리자 기능 담당 — 박람회 상세·부스·행사 관리, 대시보드 통계, 알림 스케줄러 구현 | [server](https://github.com/catapillar0505/myce-server) · [client](https://github.com/catapillar0505/myce-client) |
 | 🐦 **메추라기**<br/><sub>🏆 GURU 해커톤 대상</sub> | Claude AI 메뉴 추천 + 투표 커뮤니티 | Terraform·Ansible AWS 프로비저닝, SSE 실시간 알림·회원 백엔드 및 AI 추천 기능 연동 구현 | [main](https://github.com/catapillar0505/mechuragi_main_server) · [ai](https://github.com/catapillar0505/mechuragi_ai_server) · [client](https://github.com/catapillar0505/mechuragi_client) · [infra](https://github.com/catapillar0505/mechuragi_infra) · [📹](https://youtube.com/shorts/QZbuvk-MRn8?feature=share) |
 | 👕 **Stainless**<br/><sub>🏆 배리어프리 컨테스트 우수상</sub> | 시각장애인용 옷 얼룩 탐지 Android 앱 | 데이터 제작→학습→TFLite 변환→앱 연동까지 온디바이스 실시간 탐지 전 과정 수행 | [repo](https://github.com/catapillar0505/Stainless) · [📹](https://youtube.com/shorts/isyrkpcRVUI?feature=share) |
+
 
 ## 🛠 Tech Stack
 
@@ -34,9 +36,11 @@
 | **Cloud / Infra** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) |
 | **CI/CD** | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white) |
 
+
 ## 📜 Certificate
 
 - **정보처리기사** (2025.08.13)
+
 
 ## 🏆 Awards
 
