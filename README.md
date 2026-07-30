@@ -33,49 +33,28 @@
 
 ### 🔭 Micro-Lens — 시력보조 AI 비전 플랫폼 (1인 프로젝트)
 
-> 일상 속 미세한 부분까지, 대신 확인해주는 시력보조 파트너 · 📹 [시연 영상](https://youtu.be/7jnekg9lZeo)
-
-- **kubeadm으로 Kubernetes 클러스터 직접 구축** — Terraform·Ansible·Kustomize·ArgoCD로 GitOps 파이프라인까지 전 구간 IaC
-- YOLOv5 → YOLOv12 전환 + 데이터셋 개선(배경 이미지 10% 추가 등)으로 **mAP50 0.55 → 0.8**
-- 운영 중 GPU 사용률 **2.5%를 직접 관측** → g4dn(GPU) → t3(CPU) 전환, 절감 비용으로 **replicas 2 + podAntiAffinity HA** 확보
-
 [![infra](https://img.shields.io/badge/GitHub-microlens--infra-181717?style=flat-square&logo=github)](https://github.com/MICRO-LENS/microlens-infra)
 [![ai-api](https://img.shields.io/badge/GitHub-microlens--ai--api-181717?style=flat-square&logo=github)](https://github.com/MICRO-LENS/microlens-ai-api)
 [![client](https://img.shields.io/badge/GitHub-microlens--client-181717?style=flat-square&logo=github)](https://github.com/MICRO-LENS/microlens-client)
+[![Demo](https://img.shields.io/badge/YouTube-시연_영상-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/7jnekg9lZeo)
 
 ### 🎟️ MYCE — 박람회 생애주기 관리 플랫폼 <sub>🏆 멋사 백엔드 15기 파이널 최우수 (1위)</sub>
-
-> 박람회 개최부터 예약·결제·정산까지 원스톱 박람회 생애주기 관리 플랫폼
-
-- **박람회 관리자 도메인을 백엔드부터 프론트까지 엔드투엔드 전담** (머지 PR 55개 — server 20 + client 35)
-- 대시보드 통계의 데이터 정합성 문제 해결 — 기준 테이블 통일 + **Redis 캐시 키 버전 관리** 체계 도입
-- D-1·행사 1시간 전 **알림 스케줄러** 구현, 박람회 단위 그룹핑으로 중복 알림 제거 / QR 도메인 SRP 리팩토링
 
 [![server](https://img.shields.io/badge/GitHub-myce--server-181717?style=flat-square&logo=github)](https://github.com/catapillar0505/myce-server)
 [![client](https://img.shields.io/badge/GitHub-myce--client-181717?style=flat-square&logo=github)](https://github.com/catapillar0505/myce-client)
 
 ### 🐦 메추라기 — Claude AI 메뉴 추천 커뮤니티 <sub>🏆 Programming GURU 해커톤 대상</sub>
 
-> "오늘 뭐먹지?" 고민을 줄여주는 AI 추천 + 투표 커뮤니티 · 📹 [시연 영상](https://youtube.com/shorts/QZbuvk-MRn8?feature=share)
-
-- 팀 전체 머지 PR 177개 중 **125개(71%) 작성** — 백엔드·프론트·AI·인프라 전 저장소 기여, **인프라는 단독 설계·구축(기여 100%)**
-- **k6 부하 테스트로 게이트웨이 구조 검증** — OpenResty + Lua JWT 직행 경로 채택으로 처리량 **+32%**, p95 **-45%**
-- 알림 시스템을 DB 폴링에서 **Redis Keyspace Notifications + SSE**로 전환 — 최대 60초 지연 → 실시간, 하이브리드 fallback 설계
-
 [![main](https://img.shields.io/badge/GitHub-mechuragi__main__server-181717?style=flat-square&logo=github)](https://github.com/catapillar0505/mechuragi_main_server)
 [![ai](https://img.shields.io/badge/GitHub-mechuragi__ai__server-181717?style=flat-square&logo=github)](https://github.com/catapillar0505/mechuragi_ai_server)
 [![client](https://img.shields.io/badge/GitHub-mechuragi__client-181717?style=flat-square&logo=github)](https://github.com/catapillar0505/mechuragi_client)
 [![infra](https://img.shields.io/badge/GitHub-mechuragi__infra-181717?style=flat-square&logo=github)](https://github.com/catapillar0505/mechuragi_infra)
+[![Demo](https://img.shields.io/badge/YouTube-시연_영상-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/shorts/QZbuvk-MRn8?feature=share)
 
 ### 👕 Stainless — 시각장애인용 옷 얼룩 탐지 앱 <sub>🏆 배리어프리 앱 개발 컨테스트 우수상</sub>
 
-> 보이지 않아도, 깨끗한 옷을 입을 권리 · 📹 [시연 영상](https://youtube.com/shorts/isyrkpcRVUI?feature=share)
-
-- 시각장애인 인터뷰로 니즈를 검증하고, **YOLOv5 + TensorFlow Lite 온디바이스 실시간 탐지** 구현 (Camera2 API, TTS·진동 안내)
-- 얼룩 데이터셋 직접 제작 → 모델 학습 → TFLite 변환 → 카메라 파이프라인 연결까지 AI 전 과정 수행
-- 심사평: *"출품작 중 가장 실체적이고 구체적인 아이디어"* — 이후 Micro-Lens로 발전
-
 [![GitHub](https://img.shields.io/badge/GitHub-Stainless-181717?style=flat-square&logo=github)](https://github.com/catapillar0505/Stainless)
+[![Demo](https://img.shields.io/badge/YouTube-시연_영상-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/shorts/isyrkpcRVUI?feature=share)
 
 ---
 
