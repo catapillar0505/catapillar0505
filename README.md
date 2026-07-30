@@ -7,6 +7,7 @@
 
 </div>
 <br/>
+
 ## 🎓 Education
 
 | 과정 | 기관 | 기간 |
@@ -17,6 +18,7 @@
 | AWS와 AI를 활용한 MSA 웹서비스 개발 영등포 8기 | 새싹 청년취업사관학교 | 2026.05 ~ 2026.11 |
 
 <br/>
+
 ## 🚀 Projects
 
 | 프로젝트 | 서비스 소개 | 담당 및 핵심 성과 | 링크 |
@@ -27,6 +29,7 @@
 | 👕 **Stainless**<br/><sub>🏆 배리어프리 앱개발 공모전 우수상</sub> | 시각장애인용 옷 얼룩 탐지 Android 앱 | 데이터 제작→학습→TFLite 변환→앱 연동까지 온디바이스 실시간 탐지 전 과정 수행 | [repo](https://github.com/catapillar0505/Stainless) · [시연영상](https://youtube.com/shorts/isyrkpcRVUI?feature=share) |
 
 <br/>
+
 ## 🛠 Tech Stack
 
 | 분류 | 기술 |
@@ -38,11 +41,13 @@
 | **CI/CD** | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white) |
 
 <br/>
+
 ## 📜 Certificate
 
 - **정보처리기사** (2025.08.13)
 
 <br/>
+
 ## 🏆 Awards
 
 | 수상 | 주최 | 프로젝트 | 날짜 |
