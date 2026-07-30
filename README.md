@@ -8,9 +8,12 @@
 
 ## 🎓 Education
 
-- **서울여자대학교** 소프트웨어융합학과 (2020.03 ~ 2026.02)
-- **멋쟁이사자처럼** — JAVA 백엔드 15기 (2025.02 ~ 2025.08)
-- **새싹 청년취업사관학교** — AWS와 AI를 활용한 MSA 웹서비스 개발 (2026.05 ~ 2026.11) [![GitHub](https://img.shields.io/badge/GitHub-SeSAC--bootcamp-181717?style=flat-square&logo=github)](https://github.com/catapillar0505/SeSAC-bootcamp)
+| 과정 | 기관 | 기간 |
+|---|---|---|
+| 소프트웨어융합학과 | 서울여자대학교 | 2020.03 ~ 2026.02 |
+| 한이음 ICT멘토링 | 과학기술정보통신부 지원 | 2023.04.17 ~ 2023.11.15 |
+| JAVA 백엔드 15기 | 멋쟁이사자처럼 | 2025.02 ~ 2025.08 |
+| AWS와 AI를 활용한 MSA 웹서비스 개발 [![GitHub](https://img.shields.io/badge/GitHub-SeSAC--bootcamp-181717?style=flat-square&logo=github)](https://github.com/catapillar0505/SeSAC-bootcamp) | 새싹 청년취업사관학교 | 2026.05 ~ 2026.11 |
 
 ## 🚀 Projects
 
