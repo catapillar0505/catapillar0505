@@ -100,14 +100,6 @@
 
 ---
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=catapillar0505&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-</div>
-
----
-
 ## 📫 Contact
 
 [![Email](https://img.shields.io/badge/Email-twrp3301@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:twrp3301@gmail.com)
