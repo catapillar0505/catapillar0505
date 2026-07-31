@@ -30,15 +30,6 @@
 
 <br/>
 
-## 📚 Study
-
-| 저장소 | 내용 |
-|---|---|
-| [ai-model-study](https://github.com/catapillar0505/ai-model-study) | YOLOv5 → YOLOv12 옷 얼룩 탐지 모델 학습 기록 — 데이터셋 구축, 학습·성능 개선, 온디바이스에서 서버 추론으로의 전환 |
-| [cs-study](https://github.com/catapillar0505/cs-study) | Java · Spring · JPA · Database · Linux · 클라우드 · Docker 학습 기록 |
-
-<br/>
-
 ## 🛠 Tech Stack
 
 | 분류 | 기술 |
@@ -69,6 +60,17 @@
 | 소프트웨어융합학과 졸업 프로젝트 **은상** | 서울여자대학교 | Stainless | 2023.02 |
 | Programming GURU 해커톤 Python 부문 **장려상** | 서울여자대학교 | — | 2023.02 |
 | 창업 아이디어 경진대회 **대상** | 서울여자대학교 산학협력단 | Recordy | 2022.10 |
+
+<br/>
+
+## 📚 Study
+
+| 저장소 | 내용 |
+|---|---|
+| [ai-model-study](https://github.com/catapillar0505/ai-model-study) | YOLOv5 → YOLOv12 옷 얼룩 탐지 모델 학습 기록 — 데이터셋 구축, 학습·성능 개선, 온디바이스에서 서버 추론으로의 전환 |
+| [cs-study](https://github.com/catapillar0505/cs-study) | Java · Spring · JPA · Database · Linux · 클라우드 · Docker 학습 기록 |
+
+<br/>
 
 ## 📄 Resume
 
