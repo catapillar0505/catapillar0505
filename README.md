@@ -30,6 +30,15 @@
 
 <br/>
 
+## 📚 Study
+
+| 저장소 | 내용 |
+|---|---|
+| [ai-model-study](https://github.com/catapillar0505/ai-model-study) | YOLOv5 → YOLOv12 옷 얼룩 탐지 모델 학습 기록 — 데이터셋 구축, 학습·성능 개선, 온디바이스에서 서버 추론으로의 전환 |
+| [cs-study](https://github.com/catapillar0505/cs-study) | Java · Spring · JPA · Database · Linux · 클라우드 · Docker 학습 기록 |
+
+<br/>
+
 ## 🛠 Tech Stack
 
 | 분류 | 기술 |
@@ -61,7 +70,12 @@
 | Programming GURU 해커톤 Python 부문 **장려상** | 서울여자대학교 | — | 2023.02 |
 | 창업 아이디어 경진대회 **대상** | 서울여자대학교 산학협력단 | Recordy | 2022.10 |
 
+## 📄 Resume
+
+- [김진아_이력서.pdf](./김진아_이력서.pdf)
+
+<br/>
+
 ## 📫 Contact
 
 [![Email](https://img.shields.io/badge/Email-twrp3301@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:twrp3301@gmail.com)
-[![Notion Portfolio](https://img.shields.io/badge/Portfolio-Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/jina8/329ec63d769480eb942fdec9ed6c399e)
