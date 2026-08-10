@@ -72,6 +72,9 @@
 
 <br/>
 
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kji7462)](https://solved.ac/profile/kji7462)
+
+<br/>
 ## 📄 Resume
 
 - [김진아_이력서.pdf](./김진아_이력서.pdf)
@@ -82,4 +85,3 @@
 
 [![Email](https://img.shields.io/badge/Email-twrp3301@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:twrp3301@gmail.com)
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kji7462)](https://solved.ac/profile/kji7462)
